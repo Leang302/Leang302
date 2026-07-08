@@ -6,20 +6,20 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **[your current project here]**
-- 🌱 I'm currently learning **[something you're learning here]**
+- 🌱 I'm currently learning **AI harness and DevOps**
 - 💬 Ask me about **JavaScript, TypeScript, React, and Spring**
-- ⚡ Fun fact: **[a fun fact about you]**
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nextjs,spring,docker,figma,java,postgres,vscode,npm&perline=6" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,tailwind,nextjs,spring,docker,figma,java,postgres,vscode,npm&perline=7" alt="Tech Stack" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -36,7 +36,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leang302&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leang302&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Leang302&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
